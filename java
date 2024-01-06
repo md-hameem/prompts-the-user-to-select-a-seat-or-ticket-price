@@ -18,7 +18,7 @@ A theater seating table is implemented as a two-dimensional array of fares, as f
 
 import java.util.Scanner;
 
-public class Problem4 {
+public class TicketBooking {
 
     private static final int[][] fares = {
             {10, 10, 10, 10, 10, 10, 10, 10, 10, 10},
